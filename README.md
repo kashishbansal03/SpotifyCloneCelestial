@@ -4,7 +4,7 @@ https://www.figma.com/file/MQH86RFVC1lGG09ZCaFDWT/Normid-2023--WeGoGirls-team-li
 
 ![image](https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/605cdcf8-014d-4359-b155-e0eae311cb55)
 
-CelestialSounds is a conceptual Spotify clone meticulously designed on Figma, seamlessly blending celestial aesthetics with cutting-edge user experience. This revolutionary interface aims to redefine how users engage with music, transforming their interaction into an ethereal journey through the cosmos.
+Celestfy is a conceptual Spotify clone meticulously designed on Figma, seamlessly blending celestial aesthetics with cutting-edge user experience. This revolutionary interface aims to redefine how users engage with music, transforming their interaction into an ethereal journey through the cosmos.
 
 # Design Principles:
 
