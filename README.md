@@ -145,7 +145,7 @@ The design system involved Gotham Text with bold, medium , light and book fonts.
 
 Special care was taken to ensure that the fonts and theme for all the pages is same throughout the design.
 
-<img src="https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/da2ec46c-f067-4b8d-9187-59e37ca11a3a" width=300px height=700px>
+<img src="https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/da2ec46c-f067-4b8d-9187-59e37ca11a3a" width=100% height=100%>
 
 
 # Future Improvements and next steps
