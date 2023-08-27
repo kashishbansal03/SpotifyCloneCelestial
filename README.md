@@ -26,7 +26,7 @@ Application starts with a startup screen which has logo of our celestify app.
 
 ![image](https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/f8b94194-5276-4e79-9270-eb77d4a608a5)
 
-<img src="https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/f8b94194-5276-4e79-9270-eb77d4a608a5" width=300px height=400px>
+<img src="https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/f8b94194-5276-4e79-9270-eb77d4a608a5" width=300px height=700px>
 
 
 ## Login Page
