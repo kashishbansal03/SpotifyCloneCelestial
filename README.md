@@ -3,9 +3,9 @@
 
 https://www.figma.com/file/MQH86RFVC1lGG09ZCaFDWT/Normid-2023--WeGoGirls-team-library?type=design&node-id=0%3A1&mode=dev
 
-![image](https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/605cdcf8-014d-4359-b155-e0eae311cb55 )
 <img src="https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/605cdcf8-014d-4359-b155-e0eae311cb55" width=50% height=50%>
-Celestfy is a conceptual Spotify clone meticulously designed on Figma, seamlessly blending celestial aesthetics with cutting-edge user experience. This revolutionary interface aims to redefine how users engage with music, transforming their interaction into an ethereal journey through the cosmos.
+
+<p>Celestfy is a conceptual Spotify clone meticulously designed on Figma, seamlessly blending celestial aesthetics with cutting-edge user experience. This revolutionary interface aims to redefine how users engage with music, transforming their interaction into an ethereal journey through the cosmos.</p>
 
 # Design Principles:
 
@@ -24,7 +24,8 @@ Every playlist is represented by a unique constellation icon, forming an intuiti
 
 Application starts with a startup screen which has logo of our celestify app.
 
-![image](https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/f8b94194-5276-4e79-9270-eb77d4a608a5)
+![image](https://github.com/kashishbansal03/SpotifyCloneCelestial/assets/112632578/f8b94194-5276-4e79-9270-eb77d4a608a5){:height="36px" width="36px"}
+
 
 ## Login Page
 
